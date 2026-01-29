@@ -1,3 +1,5 @@
+import amaanTextLogo from "../../assets/a2ec735a587b0c6790f0022759483bc195d10feb.png";
+
 export function EnterpriseInfographic() {
   return (
     <section className="py-28 px-8 lg:px-16 bg-white">
@@ -149,7 +151,7 @@ export function EnterpriseInfographic() {
               {/* Logo */}
               <div className="bg-white p-8 rounded-lg">
                 <img 
-                  src="figma:asset/a2ec735a587b0c6790f0022759483bc195d10feb.png" 
+                  src={amaanTextLogo} 
                   alt="AmaanText AI" 
                   className="h-24 lg:h-32 w-auto mx-auto"
                 />

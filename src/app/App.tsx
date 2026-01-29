@@ -1,5 +1,5 @@
-import imgImage5 from "figma:asset/2b3412e8fe117b35199bad27286347d3bc75c3be.png";
-import amaanTextLogo from "figma:asset/a2ec735a587b0c6790f0022759483bc195d10feb.png";
+import imgImage5 from "../assets/2b3412e8fe117b35199bad27286347d3bc75c3be.png";
+import amaanTextLogo from "../assets/a2ec735a587b0c6790f0022759483bc195d10feb.png";
 import svgPaths from "@/imports/svg-eckgmhz3vm";
 import { TypeAnimation } from 'react-type-animation';
 import { HowItWorksSection } from '@/app/components/HowItWorksSection';
